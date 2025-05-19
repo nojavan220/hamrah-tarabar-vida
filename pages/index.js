@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 export default function Home() {
   return (
@@ -9,3 +10,6 @@ export default function Home() {
     </main>
   );
 }
+=======
+// صفحه اصلی
+>>>>>>> 3f664c3a4e09ec0c6517cd8d2a2ea3e57d2ef029
